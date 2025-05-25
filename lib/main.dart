@@ -35,4 +35,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-/// to run codemagic push on dev
+/// to run codemagic push on develop branch
