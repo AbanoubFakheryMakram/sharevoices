@@ -1,0 +1,21 @@
+workflows:
+  default_workflow:
+    name: Default Workflow
+    max_build_duration: 60
+    instance_type: mac_mini_m2
+
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+
+    scripts:
+
+    artifacts:
+      - build/**/output/**/*.apk
+      - build/ios/ipa/*.ipa
+
+    publishing:
+      email:
+        recipients:
+          - abanoub728@gmail.com

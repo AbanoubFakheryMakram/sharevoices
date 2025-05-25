@@ -1,0 +1,2 @@
+/Users/mis/Documents/sharevoices/android/app/.cxx/RelWithDebInfo/42505x1e/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mis/Documents/sharevoices/android/app/.cxx/RelWithDebInfo/42505x1e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
